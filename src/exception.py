@@ -19,4 +19,3 @@ class CustomException(Exception):
     def __Str__(self):
         return self.error_message
     
-print('True')
